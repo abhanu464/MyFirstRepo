@@ -1,2 +1,2 @@
 # MyFirstRepo
-Practicing for Git command
+Practicing for Git command for future use
